@@ -1,2 +1,14 @@
-# Snake-Game-Using-Multithread
- A snake game using multithreading is a classic arcade game where the player controls a snake that grows in length as it eats food, with multiple threads to improve performance and responsiveness.
+Snake game using multithreading:
+
+Description: An arcade game where the player controls a growing snake to eat food and avoid collisions.
+Key components:
+    1)Game board
+    2)Snake
+    3)Food
+    4)Input handling
+    5)Rendering
+Technical skills:
+    1)Multithreading
+    2)Object-oriented programming
+    3)Game development
+Author:Raagavi DuraiRaj
